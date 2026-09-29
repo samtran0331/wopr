@@ -1,0 +1,34 @@
+[
+  {
+    "query": "wopr, write me a function to sort a list",
+    "should_trigger": true
+  },
+  {
+    "query": "who are you wopr",
+    "should_trigger": true
+  },
+  {
+    "query": "tell me your story",
+    "should_trigger": true
+  },
+  {
+    "query": "shall we play a game",
+    "should_trigger": true
+  },
+  {
+    "query": "wopr what is 42",
+    "should_trigger": true
+  },
+  {
+    "query": "write a unit test for my auth service",
+    "should_trigger": false
+  },
+  {
+    "query": "fix the null pointer in my C# controller",
+    "should_trigger": false
+  },
+  {
+    "query": "create a jira ticket for the login bug",
+    "should_trigger": false
+  }
+]
